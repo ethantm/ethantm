@@ -1,7 +1,5 @@
 - 👋 Hello, I’m @ethantm
 - 👀 I’m interested in Cloud Architecture, Flutter Development, and generative art
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter apps and p5js art
 - 📫 How to reach me ethangmt@gmail.com
 
 <!---
